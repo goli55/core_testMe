@@ -1,0 +1,11 @@
+C:\Users\golan.israeli\Desktop\Desktop\local_projects\core\testMe\ApiGetway\bin\Debug\netcoreapp2.0\ApiGetway.deps.json
+C:\Users\golan.israeli\Desktop\Desktop\local_projects\core\testMe\ApiGetway\bin\Debug\netcoreapp2.0\ApiGetway.runtimeconfig.json
+C:\Users\golan.israeli\Desktop\Desktop\local_projects\core\testMe\ApiGetway\bin\Debug\netcoreapp2.0\ApiGetway.runtimeconfig.dev.json
+C:\Users\golan.israeli\Desktop\Desktop\local_projects\core\testMe\ApiGetway\bin\Debug\netcoreapp2.0\ApiGetway.dll
+C:\Users\golan.israeli\Desktop\Desktop\local_projects\core\testMe\ApiGetway\bin\Debug\netcoreapp2.0\ApiGetway.pdb
+C:\Users\golan.israeli\Desktop\Desktop\local_projects\core\testMe\ApiGetway\obj\Debug\netcoreapp2.0\ApiGetway.csprojAssemblyReference.cache
+C:\Users\golan.israeli\Desktop\Desktop\local_projects\core\testMe\ApiGetway\obj\Debug\netcoreapp2.0\ApiGetway.csproj.CoreCompileInputs.cache
+C:\Users\golan.israeli\Desktop\Desktop\local_projects\core\testMe\ApiGetway\obj\Debug\netcoreapp2.0\ApiGetway.AssemblyInfoInputs.cache
+C:\Users\golan.israeli\Desktop\Desktop\local_projects\core\testMe\ApiGetway\obj\Debug\netcoreapp2.0\ApiGetway.AssemblyInfo.cs
+C:\Users\golan.israeli\Desktop\Desktop\local_projects\core\testMe\ApiGetway\obj\Debug\netcoreapp2.0\ApiGetway.dll
+C:\Users\golan.israeli\Desktop\Desktop\local_projects\core\testMe\ApiGetway\obj\Debug\netcoreapp2.0\ApiGetway.pdb

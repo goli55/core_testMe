@@ -1,0 +1,11 @@
+C:\Users\golan.israeli\Desktop\Desktop\local_projects\core\testMe\gwapi\gwapi\bin\Debug\netcoreapp2.0\gwapi.deps.json
+C:\Users\golan.israeli\Desktop\Desktop\local_projects\core\testMe\gwapi\gwapi\bin\Debug\netcoreapp2.0\gwapi.runtimeconfig.json
+C:\Users\golan.israeli\Desktop\Desktop\local_projects\core\testMe\gwapi\gwapi\bin\Debug\netcoreapp2.0\gwapi.runtimeconfig.dev.json
+C:\Users\golan.israeli\Desktop\Desktop\local_projects\core\testMe\gwapi\gwapi\bin\Debug\netcoreapp2.0\gwapi.dll
+C:\Users\golan.israeli\Desktop\Desktop\local_projects\core\testMe\gwapi\gwapi\obj\Debug\netcoreapp2.0\gwapi.csprojAssemblyReference.cache
+C:\Users\golan.israeli\Desktop\Desktop\local_projects\core\testMe\gwapi\gwapi\obj\Debug\netcoreapp2.0\gwapi.csproj.CoreCompileInputs.cache
+C:\Users\golan.israeli\Desktop\Desktop\local_projects\core\testMe\gwapi\gwapi\obj\Debug\netcoreapp2.0\gwapi.AssemblyInfoInputs.cache
+C:\Users\golan.israeli\Desktop\Desktop\local_projects\core\testMe\gwapi\gwapi\obj\Debug\netcoreapp2.0\gwapi.AssemblyInfo.cs
+C:\Users\golan.israeli\Desktop\Desktop\local_projects\core\testMe\gwapi\gwapi\bin\Debug\netcoreapp2.0\gwapi.pdb
+C:\Users\golan.israeli\Desktop\Desktop\local_projects\core\testMe\gwapi\gwapi\obj\Debug\netcoreapp2.0\gwapi.dll
+C:\Users\golan.israeli\Desktop\Desktop\local_projects\core\testMe\gwapi\gwapi\obj\Debug\netcoreapp2.0\gwapi.pdb

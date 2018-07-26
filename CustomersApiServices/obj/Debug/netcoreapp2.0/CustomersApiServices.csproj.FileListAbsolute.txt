@@ -1,0 +1,11 @@
+C:\Users\golan.israeli\desktop\desktop\local_projects\core\testMe\customersapiservices\bin\Debug\netcoreapp2.0\CustomersApiServices.deps.json
+C:\Users\golan.israeli\desktop\desktop\local_projects\core\testMe\customersapiservices\bin\Debug\netcoreapp2.0\CustomersApiServices.runtimeconfig.json
+C:\Users\golan.israeli\desktop\desktop\local_projects\core\testMe\customersapiservices\bin\Debug\netcoreapp2.0\CustomersApiServices.runtimeconfig.dev.json
+C:\Users\golan.israeli\desktop\desktop\local_projects\core\testMe\customersapiservices\bin\Debug\netcoreapp2.0\CustomersApiServices.dll
+C:\Users\golan.israeli\desktop\desktop\local_projects\core\testMe\customersapiservices\bin\Debug\netcoreapp2.0\CustomersApiServices.pdb
+C:\Users\golan.israeli\desktop\desktop\local_projects\core\testMe\customersapiservices\obj\Debug\netcoreapp2.0\CustomersApiServices.csprojAssemblyReference.cache
+C:\Users\golan.israeli\desktop\desktop\local_projects\core\testMe\customersapiservices\obj\Debug\netcoreapp2.0\CustomersApiServices.csproj.CoreCompileInputs.cache
+C:\Users\golan.israeli\desktop\desktop\local_projects\core\testMe\customersapiservices\obj\Debug\netcoreapp2.0\CustomersApiServices.AssemblyInfoInputs.cache
+C:\Users\golan.israeli\desktop\desktop\local_projects\core\testMe\customersapiservices\obj\Debug\netcoreapp2.0\CustomersApiServices.AssemblyInfo.cs
+C:\Users\golan.israeli\desktop\desktop\local_projects\core\testMe\customersapiservices\obj\Debug\netcoreapp2.0\CustomersApiServices.dll
+C:\Users\golan.israeli\desktop\desktop\local_projects\core\testMe\customersapiservices\obj\Debug\netcoreapp2.0\CustomersApiServices.pdb

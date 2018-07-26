@@ -1,0 +1,11 @@
+C:\Users\golan.israeli\Desktop\Desktop\local_projects\core\testMe\ProductsApiServices\bin\Debug\netcoreapp2.0\ProductsApiServices.deps.json
+C:\Users\golan.israeli\Desktop\Desktop\local_projects\core\testMe\ProductsApiServices\bin\Debug\netcoreapp2.0\ProductsApiServices.runtimeconfig.json
+C:\Users\golan.israeli\Desktop\Desktop\local_projects\core\testMe\ProductsApiServices\bin\Debug\netcoreapp2.0\ProductsApiServices.runtimeconfig.dev.json
+C:\Users\golan.israeli\Desktop\Desktop\local_projects\core\testMe\ProductsApiServices\bin\Debug\netcoreapp2.0\ProductsApiServices.dll
+C:\Users\golan.israeli\Desktop\Desktop\local_projects\core\testMe\ProductsApiServices\bin\Debug\netcoreapp2.0\ProductsApiServices.pdb
+C:\Users\golan.israeli\Desktop\Desktop\local_projects\core\testMe\ProductsApiServices\obj\Debug\netcoreapp2.0\ProductsApiServices.csprojAssemblyReference.cache
+C:\Users\golan.israeli\Desktop\Desktop\local_projects\core\testMe\ProductsApiServices\obj\Debug\netcoreapp2.0\ProductsApiServices.csproj.CoreCompileInputs.cache
+C:\Users\golan.israeli\Desktop\Desktop\local_projects\core\testMe\ProductsApiServices\obj\Debug\netcoreapp2.0\ProductsApiServices.AssemblyInfoInputs.cache
+C:\Users\golan.israeli\Desktop\Desktop\local_projects\core\testMe\ProductsApiServices\obj\Debug\netcoreapp2.0\ProductsApiServices.AssemblyInfo.cs
+C:\Users\golan.israeli\Desktop\Desktop\local_projects\core\testMe\ProductsApiServices\obj\Debug\netcoreapp2.0\ProductsApiServices.dll
+C:\Users\golan.israeli\Desktop\Desktop\local_projects\core\testMe\ProductsApiServices\obj\Debug\netcoreapp2.0\ProductsApiServices.pdb
